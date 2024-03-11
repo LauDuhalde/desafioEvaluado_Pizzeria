@@ -1,4 +1,5 @@
 import ingredientes
+#Se crea clase sin constructor según ppts
 class Pizza:
     tamanio = "Familiar"
     precio = 10000
